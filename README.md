@@ -2,17 +2,13 @@
 
 ###
 
-<img align="right" height="175" src="https://learthiseni.me/images/photo.webp"  />
+<br clear="both">
+
+<img align="left" height="175" src="https://learthiseni.me/images/photo.webp"  />
+
 ###
 
-
-<h3 align="left">I am a hard working, ambitious and creative person, while still being new in the industry my passion is strong for programming!</h3>
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lh0345&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lh0345&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h4 align="left">I am a hard working, <br>ambitious and creative person,<br>while still being new in the industry my passion is strong for programming!</h4>
 
 ###
 
@@ -40,6 +36,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <a href="https://www.instagram.com/learthisenii/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -52,11 +50,16 @@
   </a>
 </div>
 
-
-
 ###
 
 <br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=lh0345&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lh0345&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <img src="https://raw.githubusercontent.com/lh0345/lh0345/output/snake.svg" alt="Snake animation" />
 
