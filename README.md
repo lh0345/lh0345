@@ -60,7 +60,3 @@
 </div>
 
 ###
-
-![Snake animation](https://github.com/lh0345/lh0345/raw/output/snake.svg)
-
-###
