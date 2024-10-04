@@ -61,6 +61,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lh0345/lh0345/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/lh0345/lh0345/raw/output/snake.svg)
 
 ###
