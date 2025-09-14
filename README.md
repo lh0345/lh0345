@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">I am a hard working, <br>ambitious and creative person!<br>Even tho I am new in the industry my passion for programming is strong!</h4>
+<h4 align="left">I am a hard working, <br>ambitious and creative person!</h4>
 
 ###
 <br clear="both">
