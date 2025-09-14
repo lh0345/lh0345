@@ -4,8 +4,6 @@
 
 <br clear="both">
 
-<img align="left" height="175" src="https://learthiseni.me/images/photo.webp"  />
-
 ###
 
 <h4 align="left">I am a hard working, <br>ambitious and creative person!</h4>
