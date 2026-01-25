@@ -12,7 +12,7 @@
 <br clear="both">
 
 <div align="left">
- <a href="https://www.learthiseni.me" target="_blank">    
+ <a href="https://lh0345.github.io/leart/" target="_blank">    
 <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio link" />
   </a>
   <a href="https://www.linkedin.com/in/learthiseni/" target="_blank">
