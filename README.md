@@ -38,8 +38,8 @@ Focused on clarity, performance, and real user value.
 
 <ul>
   <li>Minimal UI that serves a clear purpose</li>
-  <li>UX decisions based on feedback, not ego</li>
-  <li>Shipping usable products, not pretty demos</li>
+  <li>UX decisions based on feedback</li>
+  <li>Shipping usable products</li>
 </ul>
 
 <br>
