@@ -1,60 +1,49 @@
-<h2 align="left">👋 I'm Leart, Front-End Developer</h2>
+<h2 align="left">👋 Hi, I'm Leart — Front-End Developer</h2>
 
-###
+<h4 align="left">
+I build clean, fast, and usable interfaces.<br>
+Focused on clarity, performance, and real user value.
+</h4>
 
-<br clear="both">
-
-###
-
-<h4 align="left">I am a hard working, <br>ambitious and creative person!</h4>
-
-###
-<br clear="both">
+<br>
 
 <div align="left">
- <a href="https://lh0345.github.io/leart/" target="_blank">    
-<img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio link" />
+  <a href="https://lh0345.github.io/leart/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&color=E4405F&style=for-the-badge" height="35"/>
   </a>
   <a href="https://www.linkedin.com/in/learthiseni/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35"/>
   </a>
-  <a href="mailto:leart.hiseni@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:leart.hiseni@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&style=for-the-badge" height="35"/>
   </a>
 </div>
 
-###
+<br>
+
+<h4 align="left">Tech I actually use</h4>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
 </div>
 
-###
+<br>
 
+<h4 align="left">What I care about</h4>
 
-<br clear="both">
+<ul>
+  <li>Minimal UI that serves a clear purpose</li>
+  <li>UX decisions based on feedback, not ego</li>
+  <li>Shipping usable products, not pretty demos</li>
+</ul>
+
+<br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lh0345&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lh0345&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lh0345&layout=compact&langs_count=5&theme=dracula" height="150"/>
 </div>
-
-###
