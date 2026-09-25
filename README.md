@@ -24,60 +24,6 @@ Currently focused on React, React Native, TypeScript, and product-focused develo
 
 <br>
 
-<h3 align="left">🚀 Featured Projects</h3>
-
-<h4>Coach Maximus</h4>
-
-<p>
-Local-first fitness application built with React Native, TypeScript, Expo, SQLite, and Zustand.
-</p>
-
-<ul>
-  <li>Personalized workout planning and logging</li>
-  <li>Recovery tracking and offline functionality</li>
-  <li>Rule-based command parser for workout interactions</li>
-  <li>Automated testing across 52 test suites</li>
-</ul>
-
-<p>
-<strong>Status:</strong> Preparing for Google Play release<br>
-<strong>Source:</strong> Private commercial project
-</p>
-
-<h4>
-  <a href="https://github.com/lh0345/collaborative-whiteboard">
-    Collaborative Whiteboard
-  </a>
-</h4>
-
-<p>
-Interactive whiteboard project focused on real-time collaboration and user interaction.
-</p>
-
-<h4>
-  <a href="https://github.com/lh0345/habit-tracker-ai">
-    Habit Tracker AI
-  </a>
-</h4>
-
-<p>
-Habit tracking application exploring structured user data and AI-assisted features.
-</p>
-
-<h4>
-  <a href="https://github.com/lh0345/threejs-3d-project">
-    Three.js 3D Project
-  </a>
-</h4>
-
-<p>
-Interactive 3D web project built to explore Three.js and browser-based 3D experiences.
-</p>
-
-<br>
-
-<h3 align="left">🛠 Tech Stack</h3>
-
 <h4>Frontend & Mobile</h4>
 
 <div align="left">
